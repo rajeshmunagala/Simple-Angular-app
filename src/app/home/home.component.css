@@ -1,0 +1,24 @@
+.main-body{
+    width: 89vw;
+    padding: 2% 5% 2% 5%;
+    margin: 10px auto;
+    overflow: hidden;
+}
+.flex-container{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: stretch;
+    box-sizing: border-box;
+}
+.flex-item {
+    width: 25%;
+    height: 415px;
+    margin-bottom: 15px;
+    align-self: stretch;
+}
+.product-description{
+    height: 4rem;
+    overflow: hidden;
+}
