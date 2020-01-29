@@ -1,9 +1,13 @@
-# Myblog
+# Simple Angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
-## Development server
+The main objective of this project to understand the httpclient and consuming Restfull apis
 
+## To start the app
+Run `npm run generate` to have a sample database
+
+Run `npm run server` to start the json fake server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
